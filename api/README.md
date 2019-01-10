@@ -1,0 +1,1 @@
+This will host Lesspod 2.0 serverless api built with serverless framework.
