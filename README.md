@@ -11,6 +11,8 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 
+$npm run offline (not yet working)
+
 # build for production and launch server
 $ npm run build
 $ npm start
